@@ -3,4 +3,6 @@ RENCANA KONTEN WEB E-LEARNING BABASTUDIO
 - Membuat video Materi HTML & CSS
 - Membuat video Materi Bootstrap
 - Membuat video Materi PHP Native
+  * Company profile
+  * e-Commerce
 - Membuat video Materi PHP Framework
