@@ -6,5 +6,5 @@ RENCANA KONTEN WEB E-LEARNING BABASTUDIO
 - Membuat video Materi PHP Native
   * Company profile
   * e-Commerce
-- Membuat video Materi PHP Frameworks
- * Codeigniter
+- Membuat video Materi PHP Framework
+ * Laravel
